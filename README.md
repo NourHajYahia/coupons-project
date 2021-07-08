@@ -2,7 +2,7 @@
 
 System Description:
 
-Coupons system managment allows companies to create and advertise it's coupons within our site. Also this system has it's own registered customer (customers and companies are registered by the adminstrator), customers can view and purchase coupons, each coupon can be purchased just once. 
+Coupons system managment allows companies to create and advertise their coupons within our site. Also this system has it's own registered customer (customers and companies are registered by the adminstrator), customers can view and purchase coupons, each coupon can be purchased just once by each customer. 
 The system records for each customer his owned coupons.
 
 Coupons system has three clients types:
