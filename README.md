@@ -26,11 +26,9 @@ backEnd Url: https://coupons-nur-haj-yahia.herokuapp.com
 -----------------------------------------------------------------------------
 
 Admin User:
-
 email: admin@admin.com  |  password: admin
 
 Customer User:
-
 email: rayman@mail.com  |  password: rayman
 
 -----------------------------------------------------------------------------
