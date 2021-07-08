@@ -13,6 +13,7 @@ Coupons system has three clients types:
 ----------------------------------------------------------------------------
 
 Used Programing Technologies:
+
 Java, Java EE, Threads, OOP, SQL, MySQL, Hibernate ,JPA ,Spring Boot ,Spring Framework, FullStack Development ,React ,SPA ,Sprint MVC ,REST.
 Eclipse, Visual Studio Code.
 
